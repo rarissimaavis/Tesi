@@ -12,9 +12,9 @@ I risultati mostrano che il sistema è stato giudicato intuitivo e semplice da u
 
 In conclusione, il sistema proposto ha affrontato con successo i limiti dei metodi tradizionali migliorando l’aderenza al trattamento attraverso un approccio più dinamico e interattivo, aprendo nuove possibilità per la riabilitazione visiva.
 
-## Contenuti del Repository
+## Contenuti
 
-Questo repository include:
+Questa repository include:
 
 - **Codice sorgente**: i giochi **Brick Breaker** e **Memory**, sviluppati in Python con MediaPipe per il tracciamento oculare e Pygame per la grafica e l'interazione;
 - **Tesi**: versione PDF della tesi;
