@@ -1,4 +1,4 @@
-# Trattamento di ambliopia e strabismo attraverso gamification e eye tracking con MediaPipe
+# Trattamento di ambliopia e strabismo attraverso gamification e eye tracking con MediaPipe 👁️🎮
 
 Questo repository contiene il codice sorgente e la documentazione relativi al progetto di tesi triennale intitolato "Trattamento di ambliopia e strabismo attraverso gamification e eye tracking con MediaPipe". Il lavoro presentato mira a esplorare soluzioni innovative per il trattamento di ambliopia e strabismo nei bambini, utilizzando una combinazione di gamification e tecnologie avanzate di tracciamento oculare. Sono stati sviluppati due giochi interattivi, **Brick Breaker** e **Memory**, progettati per migliorare l'aderenza al trattamento visivo rispetto ai metodi tradizionali, attraverso un'esperienza terapeutica coinvolgente e dinamica.
 
